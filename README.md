@@ -95,4 +95,5 @@ The analysis provides a comprehensive view of pizza sales performance, highlight
 * Use insights for inventory planning and demand forecasting
 
 ## Dashboard
+![Dashboard](https://github.com/TanyaJain006/Pizza-Sales-Analysis-Power-BI-SQL/blob/main/Dashboard/Dashboard%201.png)
 ![Dashboard](
