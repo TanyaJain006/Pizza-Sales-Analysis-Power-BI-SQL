@@ -1,4 +1,4 @@
-## Pizza Sales Analysis
+# Pizza Sales Analysis
 
 ## Overview
 
@@ -65,11 +65,11 @@ Displays key KPIs:
 
 **Best/Worst Sellers Dashboard**
 
-Highlights:
+**Highlights:**
 * Top 5 pizzas by Revenue, Quantity, and Orders
 * Bottom 5 pizzas by Revenue, Quantity, and Orders
 
-Helps identify:
+**Helps identify:**
 * Most popular pizzas
 * Least performing items
 
@@ -93,3 +93,6 @@ The analysis provides a comprehensive view of pizza sales performance, highlight
 * Promote large-size pizzas through combo deals or discounts
 * Capitalize on peak months (January & July) with targeted campaigns
 * Use insights for inventory planning and demand forecasting
+
+## Dashboard
+![Dashboard](
